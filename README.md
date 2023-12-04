@@ -1,4 +1,3 @@
-# Programmer-Quick-Evaluation-Advanced
 Evaluation of basics for the programming team lead position at Rapid POS.
 
 Thank you for your interest in applying to become a programmer with Rapid POS.  This quick evaluation is an easy way to show you know the basics.
